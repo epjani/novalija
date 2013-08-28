@@ -1,0 +1,29 @@
+.clear{
+	clear: both;
+}
+.novalija-header{
+	height:55px;
+	background-color:gray;
+}
+.left_blank_area{
+	float: left;
+	width: 118px;
+	background-color: #fff;
+	height: 706px;
+}
+.site-content{
+	float: left;
+	background-color: red;
+	height: 100%;
+	max-width: 1024px;
+	width: 100%;
+}
+.site_navigation{
+	width: 311px;
+	background-color: yellow;
+	height: 100%;
+	float: left;
+}
+.content-area{
+	height: 716px;
+}
